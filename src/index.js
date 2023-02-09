@@ -1,2 +1,2 @@
-import "./style.css";
-console.log("Hello webpack!");
+import './style.css';
+console.log("this is a trial")
